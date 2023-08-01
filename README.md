@@ -21,8 +21,7 @@ I believe that decentralization is essential to reach the next level as a human 
 
 - 🔭 My last project was a notification tool for the Cosmos ecosystem [Star Scope](https://starscope.network)  
   
-
-- 🌱 I am currently looking for a project/job or team in the web3 space that uses the Cosmos-SDK or CosmWasm
+- 🌱 I am currently looking for a project/job or team in the web3 space
   
 
 </table>  
