@@ -10,13 +10,9 @@
   
 
 ### Glad to see you here!  
-I am a software engineer based in Lucerne, Switzerland. I started my software career when I was 15 by developing scripts that helped me have an advantage in online games.
-After my bachelor degree in 2014 I started my professional career and since then I developed many web applications. I worked in many different roles where I did Backend, Frontend, Architecture and DevOps.
+I am a software engineer based in Lucerne, Switzerland. I started my software career when I was 15 years old by developing scripts that helped me have an advantage in online games. After graduating with a bachelor's degree in computer science in 2014, I began my professional career and have since developed many web applications. I have worked in a variety of roles, including backend, frontend, architecture, and DevOps.
 
-In the past 2 years I was very focused on web3, especially the Cosmos ecosystem. 
-
-I believe in order to reach the next level as a human species we need more decentralized power structures.
-
+I believe that decentralization is essential to reach the next level as a human species. This is why I have focused on web3 in the past two years, specifically the Cosmos ecosystem and programming in Go and Rust.
 <br/>  
 
 
