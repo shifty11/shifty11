@@ -17,9 +17,7 @@ I believe that decentralization is essential to reach the next level as a human 
 
 
 ## Rapidfire  
-- ⚛️ My last project was [Star Scope](https://starscope.network), a notification tool for the Cosmos ecosystem.
-  
-- 🔭 I am currently looking for a project/job or team in the web3 space (especially related to Cosmos-SDK/CosmWasm).
+- ⚛️ I am currently working for [KYVE](https://www.kyve.network/) as a Cosmos developer.
 
 <br/>  
 
