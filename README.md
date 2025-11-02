@@ -10,7 +10,7 @@
   
 
 ### Glad to see you here!  
-I am a software engineer based in Lucerne, Switzerland. I started my software career when I was 15 years old by developing scripts that helped me have an advantage in online games. After graduating with a bachelor's degree in computer science in 2014, I began my professional career and have since developed many web applications. I have worked in a variety of roles, including backend, frontend, architecture, and DevOps.
+I am a software engineer based in Lucerne, Switzerland. I started my software career when I was 15 years old by developing scripts that helped me have an advantage in online games. After graduating with a bachelor's degree in computer science in 2014, I began my professional career and have since developed many web applications. I have worked in a variety of roles, including backend, frontend, architecture, and DevOps covering industries like Cloud Infrastucture, AdTech, Web3, EdTech.
 
 I love creating automated workflows using software and AI tools. My main focus is always abstracting away complexitiy to create a simple product for the end user.
 <br/>  
